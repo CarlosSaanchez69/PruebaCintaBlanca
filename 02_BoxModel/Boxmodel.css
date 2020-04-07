@@ -1,0 +1,16 @@
+h1{
+    border: solid 1px black;
+    width: 84px;
+    height: 100px;
+    
+
+}
+
+p{
+    border: solid 1px black;
+}
+
+a{
+    border: solid 1px purple;
+    width: 1000px;
+}

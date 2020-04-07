@@ -1,0 +1,25 @@
+.Header{
+    background-color: black;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+body{
+    margin: 0px;
+}
+h1{
+    color:white;
+    margin-left: 525px;
+}
+
+.img1{
+    width: 350px;
+    margin-left: 150px;
+    
+}
+.img2{
+    width: 350px;
+    margin-left: 250px;
+}
